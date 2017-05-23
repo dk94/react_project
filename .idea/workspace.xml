@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50de47ee-f300-4050-a44c-84fd0ccc4642" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/build/bundle.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/build/bundle.js" afterPath="$PROJECT_DIR$/js/build/bundle.js" />
     </list>
@@ -37,8 +35,8 @@
       <file leaf-file-name="bundle.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/build/bundle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="657" column="0" lean-forward="true" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
+            <state relative-caret-position="178">
+              <caret line="1173" column="9816" lean-forward="false" selection-start-line="1173" selection-start-column="9810" selection-end-line="1173" selection-end-column="9816" />
               <folding />
             </state>
           </provider>
@@ -467,15 +465,15 @@
       <workItem from="1495125991502" duration="104408000" />
       <workItem from="1495445710802" duration="70310000" />
       <workItem from="1495577038142" duration="141000" />
-      <workItem from="1495577277850" duration="387000" />
+      <workItem from="1495577277850" duration="545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184813000" />
+    <option name="totallyTimeSpent" value="184971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1380" height="742" extended-state="7" />
+    <frame x="-7" y="-7" width="1380" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21710037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -581,8 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/build/bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="657" column="0" lean-forward="true" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
+        <state relative-caret-position="178">
+          <caret line="1173" column="9816" lean-forward="false" selection-start-line="1173" selection-start-column="9810" selection-end-line="1173" selection-end-column="9816" />
           <folding />
         </state>
       </provider>
