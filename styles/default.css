@@ -1,11 +1,11 @@
 .sprite {
-    background-image: url('img/spritesheet.png');
+    background-image: url('../../public/img/spritesheet.png');
     margin:0 auto;
     background-repeat: no-repeat;
     display: block;
 }
 .sprite2 {
-    background-image: url('img/spritesheet2.png');
+    background-image: url('../../public/img/spritesheet2.png');
     background-repeat: no-repeat;
     display: block;
     margin:0 auto;
